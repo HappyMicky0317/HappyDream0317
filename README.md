@@ -31,7 +31,7 @@ Plan, develope, test, deploy, and maintain various projects. Provide effective t
 - 📫 How to reach me </br>
     Email: onedev975@gmail.com </br>
     <a href="https://github.com/akachi1409">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=akachi1409&style=for-the-badge"/></a>
+    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=brian0317&style=for-the-badge"/></a>
 
 <h3 align="left">Languages and Tools:</h3>
 
