@@ -27,9 +27,12 @@ Plan, develope, test, deploy, and maintain various projects. Provide effective t
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian0317&layout=compact&theme=vision-friendly-dark" />
   </a>  
 </p>
+<br />
 
 - 📫 How to reach me </br>
     Email: onedev975@gmail.com </br>
+    <br />
+    <br />
     <a href="https://github.com/akachi1409">
     <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=brian0317&style=for-the-badge"/></a>
 
