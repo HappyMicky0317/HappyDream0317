@@ -5,6 +5,8 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/brian0317"/></a>
   <a href="https://github.com/brian0317?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/brian0317?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/akachi1409">
+    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=brian0317&style=for-the-badge"/></a>
 </p>
 
 <p>
@@ -17,7 +19,7 @@ Plan, develope, test, deploy, and maintain various projects. Provide effective t
   <a href="https://github.com/brian0317/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=brian0317&count_private=true&show_icons=true&custom_title=Brian0317's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
+      src="https://github-readme-stats.vercel.app/api?username=brian0317&count_private=true&show_icons=true&custom_title=brian0317's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
     />
    </a>
 
@@ -32,8 +34,6 @@ Plan, develope, test, deploy, and maintain various projects. Provide effective t
 - 📫 How to reach me </br>
     Email: onedev975@gmail.com </br>
     <br />
-    <a href="https://github.com/akachi1409">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=brian0317&style=for-the-badge"/></a>
 
 <h3 align="left">Languages and Tools:</h3>
 
