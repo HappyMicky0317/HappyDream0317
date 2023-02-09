@@ -1,4 +1,4 @@
-<h1 align="center">Senior Software Engineer.</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I am Senior Software Engineer.</h1>
 
 <p align="center">
   <a href="https://github.com/brian0317?tab=repositories&sort=stargazers">
