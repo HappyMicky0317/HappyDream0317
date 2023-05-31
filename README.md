@@ -6,13 +6,13 @@
   <!-- <a href="https://github.com/happydream0317?tab=followers"> -->
     <!-- <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/happydream0317?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> -->
   <a href="https://github.com/happydream0317?tab=visitors">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=happydream0317&style=for-the-badge"/></a>
+    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=HappyDream0317&style=for-the-badge"/></a>
 </p>
 
 <p>
 With creative thinking and passionate work, I am very familiar with large-scale project management.
 Plan, develope, test, deploy, and maintain various projects. Provide effective troubleshooting and remediation for various applications. Doing my best for clients is my rule. Want long-term good relationship with successful results.
-</p> -->
+</p>
 
 </br>
 <p align="center">
