@@ -1,12 +1,8 @@
 <!-- <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I am Senior Software Engineer.</h1> -->
 
 <p>
-  <a href="https://github.com/happydream0317?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/happydream0317"/></a>
-  <!-- <a href="https://github.com/happydream0317?tab=followers"> -->
-    <!-- <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/happydream0317?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> -->
-  <a href="https://github.com/happydream0317?tab=visitors">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=HappyDream0317&style=for-the-badge"/></a>
+  <br />
+  <br />
 </p>
 
 <p>
