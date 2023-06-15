@@ -2,10 +2,9 @@
 
 <p>
   <br />
-  <br />
 </p>
 
-<p>
+<p style={font-family:bold}>
 With creative thinking and passionate work, I am very familiar with large-scale project management.
 Plan, develope, test, deploy, and maintain various projects. Provide effective troubleshooting and remediation for various applications. Doing my best for clients is my rule. Want long-term good relationship with successful results.
 </p>
