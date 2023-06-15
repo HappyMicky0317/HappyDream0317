@@ -1,10 +1,7 @@
 <!-- <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I am Senior Software Engineer.</h1> -->
 
-<p>
-  <br />
-</p>
 
-<p style={font-family:bold}>
+<p>
 With creative thinking and passionate work, I am very familiar with large-scale project management.
 Plan, develope, test, deploy, and maintain various projects. Provide effective troubleshooting and remediation for various applications. Doing my best for clients is my rule. Want long-term good relationship with successful results.
 </p>
