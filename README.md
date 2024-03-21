@@ -17,6 +17,7 @@ Plan, develope, test, deploy, and maintain various projects. Provide effective t
   <a href="https://github.com/happydream0317/github-readme-stats">
     <img
       height="150"
+      width="500"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=happydream0317&layout=compact&theme=vision-friendly-dark" />
   </a>  
 <!-- </p>
